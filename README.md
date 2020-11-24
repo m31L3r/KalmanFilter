@@ -1,2 +1,2 @@
 # KalmanFilter
- This is a Kalman Filter, programmed in Simulink for easier understanding
+ This is a Kalman Filter, programmed in Simulink for easier understanding.
